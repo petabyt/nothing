@@ -2,6 +2,7 @@
   "name": "Nothing CMF devices",
   "description": "Supports Nothing earbuds/headphones",
   "author": "Daniel Cook",
+  "license": "MIT",
   "version": 1,
   "isDraft": true,
   "moduleType": "so",
